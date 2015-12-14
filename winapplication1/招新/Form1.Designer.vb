@@ -60,7 +60,7 @@ Partial Class Form1
         Me.ListView1.HeaderStyle = System.Windows.Forms.ColumnHeaderStyle.Nonclickable
         Me.ListView1.Location = New System.Drawing.Point(189, 35)
         Me.ListView1.Name = "ListView1"
-        Me.ListView1.Size = New System.Drawing.Size(605, 422)
+        Me.ListView1.Size = New System.Drawing.Size(630, 422)
         Me.ListView1.TabIndex = 2
         Me.ListView1.UseCompatibleStateImageBehavior = False
         Me.ListView1.View = System.Windows.Forms.View.Details
