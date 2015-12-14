@@ -1,7 +1,7 @@
 ﻿Public Class Form1
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-        Label_login.Text = "欢迎使用！"
+        Label_login.Text = "欢迎使用！666"
         Button_login.Text = "登录"
     End Sub
 
